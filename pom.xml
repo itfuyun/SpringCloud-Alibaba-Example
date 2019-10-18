@@ -10,6 +10,7 @@
     <version>1.0.RELEASE</version>
     <modules>
         <module>example-nacos-discovery</module>
+        <module>example-nacos-config</module>
     </modules>
 
     <name>SpringCloud-Alibaba-Example</name>
